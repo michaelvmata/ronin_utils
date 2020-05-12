@@ -1,0 +1,116 @@
+---
+id: 4300
+keywords: corrupted replicator
+short: The corrupted replicator
+long: The corrupted replicator waits for input.
+full:
+  The machine race does not have parents strictly speaking.  Instead, they are
+  born fully formed from the replicator.  This machine looks unlike anything
+  you've ever seen before.  It's composed of metals similar to the prototypes,
+  but in pattern and shape that is wholly different.  It doesn't appear to be
+  able to move from where it sits.  It's body is covered in intricate script
+  circles that glow with an unhealthy hew.  Perhaps it's the veins of organic
+  matter growing throughout its body.  The replicator has a multitude of
+  crimson eyes, all focusing on you.
+level: 50
+gold: 8000000
+exp: 2500000
+act: SENTINEL
+aff: DODGE
+armor: -200
+align: 0
+hitroll: 31
+damage: 8d4+800
+hp: 1d1+100000
+mana: 1d1+2000
+...
+---
+id: 4301
+keywords: major techno virus
+short: A major techno virus
+long: A major techno virus adapts before your eyes.
+full:
+  The source of the corruption.  The major techno virus assimilates everything
+  it touches, subverting it's will, and converting it's being.  It's an
+  amorphic being, capable of adapting on the fly to any situation it faces.
+  It draws deeply from the surrounding power, using the energy funneled from
+  the scripts in the ruins.  Perhaps, that is it’s weakness?
+level: 50
+gold: 8000000
+exp: 2500000
+act: SENTINEL
+aff: DODGE
+armor: -200
+align: 0
+hitroll: 29
+damage: 7d5+1000
+hp: 1d1+100000
+mana: 1d1+2000
+...
+---
+id: 4302
+keywords: slight two buzzer
+short: A slight two legged buzzer
+long: A slight two legged buzzer tracks you.
+full:
+  This fragile looking machine is little more than a couple of legs attached to
+  a pair of wings.  It has three eyes that glow crimson red.  Very little can
+  escape it's detection.  It swivels back and forth as it's gaze sweeps across
+  the area, looking for intruders.
+level: 50
+gold: 16000
+exp: 650000
+act: SENTINEL
+aff: DODGE DUAL SPHERE
+armor: -150
+align: 0
+hitroll: 25
+damage: 12d12+128
+hp: 1d1+100000
+mana: 1d1+2000
+...
+---
+id: 4303
+keywords: menacing four buzzer
+short: A menacing four legged buzzer
+long: A menacing four legged buzzer scans the room.
+full:
+  This hunter killer acts as flying security.  It has four legs with razor
+  sharp talons.  It flies in formation with the rest of it’s pack, buzzing
+  aggressively towards any perceived intruders.  It has sturdy light armor
+  about it's torso, but only has a single eye.  It's sensors are not as good
+  as it's two legged cousin, but it packs more of a punch.
+level: 50
+gold: 24000
+exp: 850000
+act: SENTINEL
+aff: DODGE DUAL TRIPLE SPHERE
+armor: -150
+align: 0
+hitroll: 25
+damage: 16d12+192
+hp: 1d1+4091
+mana: 1d1+2000
+...
+---
+id: 4304
+keywords: buzzer prototype
+short: The buzzer prototype
+long: The buzzer prototype sees everything.
+full:
+  The original buzzer, birthed directly from the replicator.  Unlike the buzzers
+  you've seen thus far, it's body isn't made from stone and earth.  It appears
+  to be composed of metals not of this plane.  The scripts on it's body shine
+  brightly.  It's a sleek, killing machine.
+level: 50
+gold: 1600000
+exp: 2500000
+act: SENTINEL
+aff: DODGE DUAL TRIPLE QUAD SPHERE
+armor: -200
+align: 0
+hitroll: 31
+damage: 16d16+256
+hp: 1d1+24000
+mana: 1d1+2000
+...
